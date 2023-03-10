@@ -1,16 +1,20 @@
-### Hi there 👋
+### HELLO WORLD!
 
-<!--
-**LunaticWyrm467/LunaticWyrm467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Niko (or Nik, whichever name works for ya!), and I am a student currently at Arundel High School, Maryland - preparing to move overseas to study at a CS-focused Uni in Germany!
+I love working on personal coding projects and games, and some of my interests include the following:
+- 🎮 Game Development
+- 🤖 Artifical Intelligence
+- 💾 Low-Level Programming
 
-Here are some ideas to get you started:
+I have a variety of languages that I am interested in, and here are some that I am either familiar with, learning, or have worked with in the past:
+- 📒 Javascript (It's been a while)
+- ☕ Java
+- 💙 C
+- ➕ C++
+- #️⃣ C#
+- 🔷 F#
+- 🐍 Python
+- ⚙️ GDScript
+- 🔵 Lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my personal project's repos are privated, but I might be working on open-source programs in the future!
