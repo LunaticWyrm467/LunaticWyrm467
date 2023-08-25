@@ -1,6 +1,6 @@
 ### HELLO WORLD!
 
-I'm Niko (or Nik, whichever name works for ya!), and I am a student currently at Arundel High School, Maryland - preparing to move overseas to study at a CS-focused Uni in Germany!
+I'm Niko (or Nik, whichever name works for ya!), and I am a freeloader that is currently preparing to move overseas to study at a CS-focused Uni in Germany!
 I love working on personal coding projects and games, and some of my interests include the following:
 - 🎮 Game Development
 - 🤖 Artifical Intelligence
