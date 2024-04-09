@@ -1,20 +1,20 @@
 ### HELLO WORLD!
 
-I'm Niko (or Nik, whichever name works for ya!), and I am a freelancer that is currently preparing to move overseas to study at a CS-focused Uni in Germany!
-I love working on personal coding projects and games, and some of my interests include the following:
+Hey there, name's Niko.
+
+I'm a freelancer/hobbyist programmer that has worked on several private and a few public projects that often are related to the following field:
 - 🎮 Game Development
 - 🤖 Artifical Intelligence
 - 💾 Low-Level Programming
 
-I have a variety of languages that I am interested in, and here are some that I am either familiar with, learning, or have worked with in the past:
-- 📒 Javascript (It's been a while)
+The languages that I'm comfortable working in include:
 - ☕ Java
 - 💙 C
 - ➕ C++
 - #️⃣ C#
 - 🔷 F#
+- 🦀 Rust   <- Mostly this
 - 🐍 Python
 - ⚙️ GDScript
-- 🔵 Lua
 
-Most of my personal project's repos are privated, but I might be working on open-source programs in the future!
+I've moved over recently from the US and am currently looking at studying at either Portugal or Germany. My plans are to eventually move to Germany to work there long-term.
